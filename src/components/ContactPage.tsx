@@ -354,7 +354,7 @@ export function ContactPage() {
               </p>
               <Button
                 className="mt-4 bg-[#8B2500] hover:bg-[#CC5500] text-white"
-                onClick={() => window.open('https://share.google/RgpF94p977SR322yL', '_blank')}
+                onClick={() => window.open('https://maps.app.goo.gl/FNPBe3o9DeWB4bkY7', '_blank')}
               >
                 Open in Google Maps
               </Button>
